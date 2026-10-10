@@ -1,0 +1,15 @@
+{
+  "n_total": 30,
+  "n_answerable": 25,
+  "n_unanswerable": 5,
+  "recall_at_1": 0.72,
+  "recall_at_5": 0.92,
+  "mean_reciprocal_rank": 0.79,
+  "correct_refusals": 3,
+  "refusal_accuracy": 0.6,
+  "false_refusals_on_answerable": 2,
+  "manual_review_required": [
+    "answer_correct_manual",
+    "citation_faithful_manual"
+  ]
+}

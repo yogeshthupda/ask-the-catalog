@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "metadata": {
+    "synthetic_demo": true,
+    "source_documents": ["DEMO_ONLY_FICTIONAL_POLICIES.pdf"],
+    "warning": "Entirely invented Demo University material. NOT University of the Cumberlands policy."
+  },
+  "chunks": [
+    {"chunk_id":"demo_p1", "document":"DEMO_ONLY_FICTIONAL_POLICIES.pdf", "page":1, "text":"DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Transfer credit: Students may request review of previously earned graduate credits using a transfer review form. The registrar must receive an official transcript. A department committee makes final equivalency decisions. No transfer credits are automatically approved."},
+    {"chunk_id":"demo_p2", "document":"DEMO_ONLY_FICTIONAL_POLICIES.pdf", "page":2, "text":"DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Residency: The sample residency workshop requires advance registration. Students who miss a workshop must contact the residency coordinator and submit a make-up request. A missed workshop does not automatically receive an excused absence."},
+    {"chunk_id":"demo_p3", "document":"DEMO_ONLY_FICTIONAL_POLICIES.pdf", "page":3, "text":"DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Incomplete grades: A student may request an incomplete only before the final assessment deadline. The course instructor decides whether the documented circumstances justify an incomplete. The student and instructor must complete a written completion plan. Approval is not guaranteed."},
+    {"chunk_id":"demo_p4", "document":"DEMO_ONLY_FICTIONAL_POLICIES.pdf", "page":4, "text":"DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Academic standing: The graduate program monitors cumulative grade point average after every term. A student placed on academic warning receives a written notification and a support meeting invitation. Program leadership evaluates continued enrollment under the academic standing policy."},
+    {"chunk_id":"demo_p5", "document":"DEMO_ONLY_FICTIONAL_POLICIES.pdf", "page":5, "text":"DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Course withdrawal: Students must submit withdrawal requests through the student portal before the published deadline. The effective withdrawal date is recorded by the registrar. Ceasing to attend class is not itself an official withdrawal."},
+    {"chunk_id":"demo_p6", "document":"DEMO_ONLY_FICTIONAL_POLICIES.pdf", "page":6, "text":"DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Graduation application: Degree candidates should check their degree audit, submit a graduation application through the student portal, and clear financial and academic holds. Filing an application does not itself certify that all program requirements have been completed."},
+    {"chunk_id":"demo_p7", "document":"DEMO_ONLY_FICTIONAL_POLICIES.pdf", "page":7, "text":"DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Academic appeals: Appeals must identify the challenged decision, provide relevant supporting documentation, and follow the published appeal timeline. An independent reviewer considers the submitted record. Appeals do not guarantee a reversal."},
+    {"chunk_id":"demo_p8", "document":"DEMO_ONLY_FICTIONAL_POLICIES.pdf", "page":8, "text":"DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Records and transcripts: Current students may request unofficial records through the student portal. Official transcripts are processed by the registrar after identity verification. The university does not release another student's records without appropriate authorization."}
+  ]
+}
+

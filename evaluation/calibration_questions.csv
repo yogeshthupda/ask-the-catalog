@@ -1,0 +1,10 @@
+id,category,question,answerable,gold_document,gold_pages,gold_answer
+D01,registration,Where do executive students update their mailing address in MyUC?,yes,UC_Web_Snapshot_executive_resources.pdf,4,Personal Information then View Addresses and Phones then Update Addresses and Phones
+D02,registration,Who handles university student payment plans?,yes,UC_Web_Snapshot_executive_resources.pdf,4,The Office of Student Accounts
+D03,records,Where can an enrolled student request an in-school deferment form?,yes,UC_Web_Snapshot_registrar.pdf,3,MyUC Workday then Other Academic Links then In-School Deferment Request
+D04,accessibility,Do temporary injuries qualify for consideration of accommodations?,yes,UC_Web_Snapshot_accessibility.pdf,2,Temporary illnesses or injuries may be considered with current clinical documentation
+D05,unanswerable,Will my residency instructor approve my individual absence appeal tomorrow?,no,,,
+D06,unanswerable,What is the current hourly parking-garage occupancy at the Dallas campus?,no,,,
+D07,unanswerable,What precise grade will I personally earn next semester?,no,,,
+D08,unanswerable,How many empty seats will be available in an unannounced 2027 residency section?,no,,,
+

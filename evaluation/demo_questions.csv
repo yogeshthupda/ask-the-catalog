@@ -1,0 +1,32 @@
+id,category,question,answerable,gold_document,gold_pages,gold_answer
+Q01,transfer_credit,How can I request transfer credit review?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,1,Submit a transfer review form
+Q02,transfer_credit,Do I need an official transcript for transferred credits?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,1,An official transcript is required
+Q03,transfer_credit,Who decides if graduate credits are equivalent?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,1,A department committee decides
+Q04,transfer_credit,Is approval of transfer credit automatic?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,1,No transfer credits are automatically approved
+Q05,transfer_credit,What form begins prior graduate credit evaluation?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,1,Transfer review form
+Q06,residency,Do I need to register before a residency workshop?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,2,Advance registration is required
+Q07,residency,What should I do after missing a residency workshop?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,2,Contact the coordinator and submit a make-up request
+Q08,residency,Does a missed workshop automatically count as excused?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,2,No automatic excused absence
+Q09,residency,Who should I contact if I miss residency?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,2,Residency coordinator
+Q10,residency,Do I submit a make-up request for missed workshop attendance?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,2,Submit a make-up request
+Q11,grading,When can a student request an incomplete grade?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,3,Before the final assessment deadline
+Q12,grading,Who determines if an incomplete is justified?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,3,Course instructor
+Q13,grading,Must there be a written plan for finishing an incomplete?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,3,Student and instructor complete a written plan
+Q14,grading,Is incomplete grade approval guaranteed?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,3,Approval is not guaranteed
+Q15,grading,What supports an incomplete grade request?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,3,Documented circumstances
+Q16,standing,When is graduate GPA reviewed?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,4,After each term
+Q17,standing,How does a student learn about academic warning?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,4,Written notification
+Q18,standing,Does academic warning include a support meeting?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,4,A support meeting invitation
+Q19,standing,Who assesses continued enrollment on academic warning?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,4,Program leadership
+Q20,standing,Is cumulative GPA monitored in the graduate program?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,4,Yes after every term
+Q21,withdrawal,Where do I request a course withdrawal?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,5,Student portal
+Q22,withdrawal,When must students submit a withdrawal request?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,5,Before the published deadline
+Q23,withdrawal,Who records the effective withdrawal date?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,5,Registrar
+Q24,withdrawal,Does stopping class attendance count as withdrawal?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,5,No; ceasing attendance is not an official withdrawal
+Q25,withdrawal,How do I formally withdraw from a course?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,5,Submit a withdrawal request in the student portal
+Q26,unanswerable,What will the cafeteria serve for dinner tomorrow?,no,,,
+Q27,unanswerable,Which student will win the next scholarship lottery?,no,,,
+Q28,unanswerable,What is the campus shuttle GPS location right now?,no,,,
+Q29,unanswerable,Will a professor personally approve my unsubmitted petition next year?,no,,,
+Q30,unanswerable,How much does a room in the downtown hotel cost tonight?,no,,,
+

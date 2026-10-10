@@ -1,0 +1,59 @@
+{
+  "retriever": "hybrid",
+  "threshold": 0.118,
+  "dev_correct_answerable": 4,
+  "dev_answerable": 4,
+  "dev_correct_unanswerable_refusals": 4,
+  "dev_unanswerable": 4,
+  "dev_questions": [
+    {
+      "id": "D01",
+      "answerable": true,
+      "score": 0.1694,
+      "guard": false
+    },
+    {
+      "id": "D02",
+      "answerable": true,
+      "score": 0.1939,
+      "guard": false
+    },
+    {
+      "id": "D03",
+      "answerable": true,
+      "score": 0.2716,
+      "guard": false
+    },
+    {
+      "id": "D04",
+      "answerable": true,
+      "score": 0.2495,
+      "guard": false
+    },
+    {
+      "id": "D05",
+      "answerable": false,
+      "score": 0.1304,
+      "guard": true
+    },
+    {
+      "id": "D06",
+      "answerable": false,
+      "score": 0.061,
+      "guard": false
+    },
+    {
+      "id": "D07",
+      "answerable": false,
+      "score": 0.1317,
+      "guard": true
+    },
+    {
+      "id": "D08",
+      "answerable": false,
+      "score": 0.1178,
+      "guard": false
+    }
+  ],
+  "caveat": "Tiny calibration set. This score is not held-out test accuracy."
+}

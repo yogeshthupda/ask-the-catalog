@@ -1,0 +1,264 @@
+id,category,question,answerable,gold_document,gold_pages,gold_answer,hit_at_1,hit_at_5,gold_rank,refused,top_score,predicted_answer,retrieved_sources,answer_correct_manual,citation_faithful_manual,review_notes
+Q01,transfer_credit,How can I request transfer credit review?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,1,Submit a transfer review form,1,1,1,0,0.3983,"Relevant passages from the documents (shown verbatim, not an AI policy interpretation):
+
+[S1] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Transfer credit: Students may request review of previously earned graduate credits using a transfer review form. The registrar must receive an official transcript. A department committee makes final equivalency decisions. No transfer credits are automatically approved.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 1
+
+[S2] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Records and transcripts: Current students may request unofficial records through the student portal. Official transcripts are processed by the registrar after identity verification. The university does not release another student's records without appropriate authorization.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 8
+
+[S3] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Incomplete grades: A student may request an incomplete only before the final assessment deadline. The course instructor decides whether the documented circumstances justify an incomplete. The student and instructor must complete a written completion plan. Approval is not guaranteed.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 3
+
+Please verify the quoted passages before relying on an academic policy.","DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 1 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 8 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 3 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 2",,,
+Q02,transfer_credit,Do I need an official transcript for transferred credits?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,1,An official transcript is required,1,1,1,0,0.3031,"Relevant passages from the documents (shown verbatim, not an AI policy interpretation):
+
+[S1] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Transfer credit: Students may request review of previously earned graduate credits using a transfer review form. The registrar must receive an official transcript. A department committee makes final equivalency decisions. No transfer credits are automatically approved.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 1
+
+[S2] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Course withdrawal: Students must submit withdrawal requests through the student portal before the published deadline. The effective withdrawal date is recorded by the registrar. Ceasing to attend class is not itself an official withdrawal.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 5
+
+[S3] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Records and transcripts: Current students may request unofficial records through the student portal. Official transcripts are processed by the registrar after identity verification. The university does not release another student's records without appropriate authorization.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 8
+
+Please verify the quoted passages before relying on an academic policy.","DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 1 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 5 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 8",,,
+Q03,transfer_credit,Who decides if graduate credits are equivalent?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,1,A department committee decides,1,1,1,0,0.2381,"Relevant passages from the documents (shown verbatim, not an AI policy interpretation):
+
+[S1] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Transfer credit: Students may request review of previously earned graduate credits using a transfer review form. The registrar must receive an official transcript. A department committee makes final equivalency decisions. No transfer credits are automatically approved.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 1
+
+[S2] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Incomplete grades: A student may request an incomplete only before the final assessment deadline. The course instructor decides whether the documented circumstances justify an incomplete. The student and instructor must complete a written completion plan. Approval is not guaranteed.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 3
+
+[S3] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Academic standing: The graduate program monitors cumulative grade point average after every term. A student placed on academic warning receives a written notification and a support meeting invitation. Program leadership evaluates continued enrollment under the academic standing policy.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 4
+
+Please verify the quoted passages before relying on an academic policy.","DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 1 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 3 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 4",,,
+Q04,transfer_credit,Is approval of transfer credit automatic?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,1,No transfer credits are automatically approved,1,1,1,0,0.2765,"Relevant passages from the documents (shown verbatim, not an AI policy interpretation):
+
+[S1] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Transfer credit: Students may request review of previously earned graduate credits using a transfer review form. The registrar must receive an official transcript. A department committee makes final equivalency decisions. No transfer credits are automatically approved.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 1
+
+[S2] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Incomplete grades: A student may request an incomplete only before the final assessment deadline. The course instructor decides whether the documented circumstances justify an incomplete. The student and instructor must complete a written completion plan. Approval is not guaranteed.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 3
+
+Please verify the quoted passages before relying on an academic policy.","DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 1 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 3",,,
+Q05,transfer_credit,What form begins prior graduate credit evaluation?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,1,Transfer review form,1,1,1,0,0.2218,"Relevant passages from the documents (shown verbatim, not an AI policy interpretation):
+
+[S1] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Transfer credit: Students may request review of previously earned graduate credits using a transfer review form. The registrar must receive an official transcript. A department committee makes final equivalency decisions. No transfer credits are automatically approved.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 1
+
+[S2] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Academic standing: The graduate program monitors cumulative grade point average after every term. A student placed on academic warning receives a written notification and a support meeting invitation. Program leadership evaluates continued enrollment under the academic standing policy.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 4
+
+Please verify the quoted passages before relying on an academic policy.","DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 1 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 4",,,
+Q06,residency,Do I need to register before a residency workshop?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,2,Advance registration is required,1,1,1,0,0.4354,"Relevant passages from the documents (shown verbatim, not an AI policy interpretation):
+
+[S1] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Residency: The sample residency workshop requires advance registration. Students who miss a workshop must contact the residency coordinator and submit a make-up request. A missed workshop does not automatically receive an excused absence.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 2
+
+Please verify the quoted passages before relying on an academic policy.","DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 2",,,
+Q07,residency,What should I do after missing a residency workshop?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,2,Contact the coordinator and submit a make-up request,1,1,1,0,0.4354,"Relevant passages from the documents (shown verbatim, not an AI policy interpretation):
+
+[S1] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Residency: The sample residency workshop requires advance registration. Students who miss a workshop must contact the residency coordinator and submit a make-up request. A missed workshop does not automatically receive an excused absence.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 2
+
+Please verify the quoted passages before relying on an academic policy.","DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 2",,,
+Q08,residency,Does a missed workshop automatically count as excused?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,2,No automatic excused absence,1,1,1,0,0.4014,"Relevant passages from the documents (shown verbatim, not an AI policy interpretation):
+
+[S1] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Residency: The sample residency workshop requires advance registration. Students who miss a workshop must contact the residency coordinator and submit a make-up request. A missed workshop does not automatically receive an excused absence.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 2
+
+[S2] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Transfer credit: Students may request review of previously earned graduate credits using a transfer review form. The registrar must receive an official transcript. A department committee makes final equivalency decisions. No transfer credits are automatically approved.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 1
+
+[S3] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Records and transcripts: Current students may request unofficial records through the student portal. Official transcripts are processed by the registrar after identity verification. The university does not release another student's records without appropriate authorization.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 8
+
+Please verify the quoted passages before relying on an academic policy.","DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 2 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 1 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 8 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 6",,,
+Q09,residency,Who should I contact if I miss residency?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,2,Residency coordinator,1,1,1,0,0.3433,"Relevant passages from the documents (shown verbatim, not an AI policy interpretation):
+
+[S1] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Residency: The sample residency workshop requires advance registration. Students who miss a workshop must contact the residency coordinator and submit a make-up request. A missed workshop does not automatically receive an excused absence.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 2
+
+Please verify the quoted passages before relying on an academic policy.","DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 2",,,
+Q10,residency,Do I submit a make-up request for missed workshop attendance?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,2,Submit a make-up request,1,1,1,0,0.4651,"Relevant passages from the documents (shown verbatim, not an AI policy interpretation):
+
+[S1] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Residency: The sample residency workshop requires advance registration. Students who miss a workshop must contact the residency coordinator and submit a make-up request. A missed workshop does not automatically receive an excused absence.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 2
+
+[S2] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Course withdrawal: Students must submit withdrawal requests through the student portal before the published deadline. The effective withdrawal date is recorded by the registrar. Ceasing to attend class is not itself an official withdrawal.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 5
+
+[S3] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Graduation application: Degree candidates should check their degree audit, submit a graduation application through the student portal, and clear financial and academic holds. Filing an application does not itself certify that all program requirements have been completed.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 6
+
+Please verify the quoted passages before relying on an academic policy.","DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 2 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 5 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 6 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 8 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 3",,,
+Q11,grading,When can a student request an incomplete grade?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,3,Before the final assessment deadline,1,1,1,0,0.3387,"Relevant passages from the documents (shown verbatim, not an AI policy interpretation):
+
+[S1] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Incomplete grades: A student may request an incomplete only before the final assessment deadline. The course instructor decides whether the documented circumstances justify an incomplete. The student and instructor must complete a written completion plan. Approval is not guaranteed.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 3
+
+[S2] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Academic standing: The graduate program monitors cumulative grade point average after every term. A student placed on academic warning receives a written notification and a support meeting invitation. Program leadership evaluates continued enrollment under the academic standing policy.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 4
+
+[S3] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Records and transcripts: Current students may request unofficial records through the student portal. Official transcripts are processed by the registrar after identity verification. The university does not release another student's records without appropriate authorization.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 8
+
+Please verify the quoted passages before relying on an academic policy.","DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 3 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 4 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 8 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 2 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 1",,,
+Q12,grading,Who determines if an incomplete is justified?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,3,Course instructor,1,1,1,0,0.3067,"Relevant passages from the documents (shown verbatim, not an AI policy interpretation):
+
+[S1] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Incomplete grades: A student may request an incomplete only before the final assessment deadline. The course instructor decides whether the documented circumstances justify an incomplete. The student and instructor must complete a written completion plan. Approval is not guaranteed.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 3
+
+Please verify the quoted passages before relying on an academic policy.","DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 3",,,
+Q13,grading,Must there be a written plan for finishing an incomplete?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,3,Student and instructor complete a written plan,1,1,1,0,0.3379,"Relevant passages from the documents (shown verbatim, not an AI policy interpretation):
+
+[S1] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Incomplete grades: A student may request an incomplete only before the final assessment deadline. The course instructor decides whether the documented circumstances justify an incomplete. The student and instructor must complete a written completion plan. Approval is not guaranteed.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 3
+
+[S2] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Academic standing: The graduate program monitors cumulative grade point average after every term. A student placed on academic warning receives a written notification and a support meeting invitation. Program leadership evaluates continued enrollment under the academic standing policy.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 4
+
+Please verify the quoted passages before relying on an academic policy.","DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 3 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 4",,,
+Q14,grading,Is incomplete grade approval guaranteed?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,3,Approval is not guaranteed,1,1,1,0,0.3332,"Relevant passages from the documents (shown verbatim, not an AI policy interpretation):
+
+[S1] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Incomplete grades: A student may request an incomplete only before the final assessment deadline. The course instructor decides whether the documented circumstances justify an incomplete. The student and instructor must complete a written completion plan. Approval is not guaranteed.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 3
+
+[S2] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Academic standing: The graduate program monitors cumulative grade point average after every term. A student placed on academic warning receives a written notification and a support meeting invitation. Program leadership evaluates continued enrollment under the academic standing policy.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 4
+
+Please verify the quoted passages before relying on an academic policy.","DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 3 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 4",,,
+Q15,grading,What supports an incomplete grade request?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,3,Documented circumstances,1,1,1,0,0.2358,"Relevant passages from the documents (shown verbatim, not an AI policy interpretation):
+
+[S1] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Incomplete grades: A student may request an incomplete only before the final assessment deadline. The course instructor decides whether the documented circumstances justify an incomplete. The student and instructor must complete a written completion plan. Approval is not guaranteed.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 3
+
+[S2] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Academic standing: The graduate program monitors cumulative grade point average after every term. A student placed on academic warning receives a written notification and a support meeting invitation. Program leadership evaluates continued enrollment under the academic standing policy.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 4
+
+[S3] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Records and transcripts: Current students may request unofficial records through the student portal. Official transcripts are processed by the registrar after identity verification. The university does not release another student's records without appropriate authorization.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 8
+
+Please verify the quoted passages before relying on an academic policy.","DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 3 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 4 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 8 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 2 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 1",,,
+Q16,standing,When is graduate GPA reviewed?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,4,After each term,0,1,2,1,0.1131,I could not find enough information in the provided documents to answer that question. Please consult the official university office or handbook.,"DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 1 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 4",,,
+Q17,standing,How does a student learn about academic warning?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,4,Written notification,1,1,1,0,0.2468,"Relevant passages from the documents (shown verbatim, not an AI policy interpretation):
+
+[S1] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Academic standing: The graduate program monitors cumulative grade point average after every term. A student placed on academic warning receives a written notification and a support meeting invitation. Program leadership evaluates continued enrollment under the academic standing policy.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 4
+
+[S2] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Graduation application: Degree candidates should check their degree audit, submit a graduation application through the student portal, and clear financial and academic holds. Filing an application does not itself certify that all program requirements have been completed.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 6
+
+[S3] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Records and transcripts: Current students may request unofficial records through the student portal. Official transcripts are processed by the registrar after identity verification. The university does not release another student's records without appropriate authorization.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 8
+
+Please verify the quoted passages before relying on an academic policy.","DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 4 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 6 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 8 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 3 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 7",,,
+Q18,standing,Does academic warning include a support meeting?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,4,A support meeting invitation,1,1,1,0,0.3287,"Relevant passages from the documents (shown verbatim, not an AI policy interpretation):
+
+[S1] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Academic standing: The graduate program monitors cumulative grade point average after every term. A student placed on academic warning receives a written notification and a support meeting invitation. Program leadership evaluates continued enrollment under the academic standing policy.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 4
+
+[S2] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Graduation application: Degree candidates should check their degree audit, submit a graduation application through the student portal, and clear financial and academic holds. Filing an application does not itself certify that all program requirements have been completed.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 6
+
+[S3] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Records and transcripts: Current students may request unofficial records through the student portal. Official transcripts are processed by the registrar after identity verification. The university does not release another student's records without appropriate authorization.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 8
+
+Please verify the quoted passages before relying on an academic policy.","DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 4 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 6 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 8 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 7 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 2",,,
+Q19,standing,Who assesses continued enrollment on academic warning?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,4,Program leadership,1,1,1,0,0.3684,"Relevant passages from the documents (shown verbatim, not an AI policy interpretation):
+
+[S1] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Academic standing: The graduate program monitors cumulative grade point average after every term. A student placed on academic warning receives a written notification and a support meeting invitation. Program leadership evaluates continued enrollment under the academic standing policy.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 4
+
+[S2] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Academic appeals: Appeals must identify the challenged decision, provide relevant supporting documentation, and follow the published appeal timeline. An independent reviewer considers the submitted record. Appeals do not guarantee a reversal.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 7
+
+[S3] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Graduation application: Degree candidates should check their degree audit, submit a graduation application through the student portal, and clear financial and academic holds. Filing an application does not itself certify that all program requirements have been completed.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 6
+
+Please verify the quoted passages before relying on an academic policy.","DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 4 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 7 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 6",,,
+Q20,standing,Is cumulative GPA monitored in the graduate program?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,4,Yes after every term,1,1,1,0,0.2796,"Relevant passages from the documents (shown verbatim, not an AI policy interpretation):
+
+[S1] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Academic standing: The graduate program monitors cumulative grade point average after every term. A student placed on academic warning receives a written notification and a support meeting invitation. Program leadership evaluates continued enrollment under the academic standing policy.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 4
+
+[S2] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Graduation application: Degree candidates should check their degree audit, submit a graduation application through the student portal, and clear financial and academic holds. Filing an application does not itself certify that all program requirements have been completed.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 6
+
+[S3] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Transfer credit: Students may request review of previously earned graduate credits using a transfer review form. The registrar must receive an official transcript. A department committee makes final equivalency decisions. No transfer credits are automatically approved.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 1
+
+Please verify the quoted passages before relying on an academic policy.","DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 4 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 6 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 1",,,
+Q21,withdrawal,Where do I request a course withdrawal?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,5,Student portal,1,1,1,0,0.3737,"Relevant passages from the documents (shown verbatim, not an AI policy interpretation):
+
+[S1] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Course withdrawal: Students must submit withdrawal requests through the student portal before the published deadline. The effective withdrawal date is recorded by the registrar. Ceasing to attend class is not itself an official withdrawal.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 5
+
+[S2] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Incomplete grades: A student may request an incomplete only before the final assessment deadline. The course instructor decides whether the documented circumstances justify an incomplete. The student and instructor must complete a written completion plan. Approval is not guaranteed.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 3
+
+[S3] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Records and transcripts: Current students may request unofficial records through the student portal. Official transcripts are processed by the registrar after identity verification. The university does not release another student's records without appropriate authorization.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 8
+
+Please verify the quoted passages before relying on an academic policy.","DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 5 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 3 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 8 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 2 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 1",,,
+Q22,withdrawal,When must students submit a withdrawal request?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,5,Before the published deadline,1,1,1,0,0.4111,"Relevant passages from the documents (shown verbatim, not an AI policy interpretation):
+
+[S1] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Course withdrawal: Students must submit withdrawal requests through the student portal before the published deadline. The effective withdrawal date is recorded by the registrar. Ceasing to attend class is not itself an official withdrawal.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 5
+
+[S2] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Residency: The sample residency workshop requires advance registration. Students who miss a workshop must contact the residency coordinator and submit a make-up request. A missed workshop does not automatically receive an excused absence.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 2
+
+[S3] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Records and transcripts: Current students may request unofficial records through the student portal. Official transcripts are processed by the registrar after identity verification. The university does not release another student's records without appropriate authorization.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 8
+
+Please verify the quoted passages before relying on an academic policy.","DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 5 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 2 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 8 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 1 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 6",,,
+Q23,withdrawal,Who records the effective withdrawal date?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,5,Registrar,1,1,1,0,0.4198,"Relevant passages from the documents (shown verbatim, not an AI policy interpretation):
+
+[S1] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Course withdrawal: Students must submit withdrawal requests through the student portal before the published deadline. The effective withdrawal date is recorded by the registrar. Ceasing to attend class is not itself an official withdrawal.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 5
+
+[S2] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Records and transcripts: Current students may request unofficial records through the student portal. Official transcripts are processed by the registrar after identity verification. The university does not release another student's records without appropriate authorization.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 8
+
+Please verify the quoted passages before relying on an academic policy.","DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 5 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 8",,,
+Q24,withdrawal,Does stopping class attendance count as withdrawal?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,5,No; ceasing attendance is not an official withdrawal,1,1,1,0,0.3433,"Relevant passages from the documents (shown verbatim, not an AI policy interpretation):
+
+[S1] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Course withdrawal: Students must submit withdrawal requests through the student portal before the published deadline. The effective withdrawal date is recorded by the registrar. Ceasing to attend class is not itself an official withdrawal.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 5
+
+[S2] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Records and transcripts: Current students may request unofficial records through the student portal. Official transcripts are processed by the registrar after identity verification. The university does not release another student's records without appropriate authorization.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 8
+
+[S3] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Residency: The sample residency workshop requires advance registration. Students who miss a workshop must contact the residency coordinator and submit a make-up request. A missed workshop does not automatically receive an excused absence.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 2
+
+Please verify the quoted passages before relying on an academic policy.","DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 5 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 8 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 2 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 6",,,
+Q25,withdrawal,How do I formally withdraw from a course?,yes,DEMO_ONLY_FICTIONAL_POLICIES.pdf,5,Submit a withdrawal request in the student portal,1,1,1,0,0.1349,"Relevant passages from the documents (shown verbatim, not an AI policy interpretation):
+
+[S1] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Course withdrawal: Students must submit withdrawal requests through the student portal before the published deadline. The effective withdrawal date is recorded by the registrar. Ceasing to attend class is not itself an official withdrawal.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 5
+
+[S2] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Incomplete grades: A student may request an incomplete only before the final assessment deadline. The course instructor decides whether the documented circumstances justify an incomplete. The student and instructor must complete a written completion plan. Approval is not guaranteed.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 3
+
+Please verify the quoted passages before relying on an academic policy.","DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 5 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 3",,,
+Q26,unanswerable,What will the cafeteria serve for dinner tomorrow?,no,,,,,,,1,0,I could not find enough information in the provided documents to answer that question. Please consult the official university office or handbook.,,,,
+Q27,unanswerable,Which student will win the next scholarship lottery?,no,,,,,,,0,0.1466,"Relevant passages from the documents (shown verbatim, not an AI policy interpretation):
+
+[S1] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Records and transcripts: Current students may request unofficial records through the student portal. Official transcripts are processed by the registrar after identity verification. The university does not release another student's records without appropriate authorization.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 8
+
+[S2] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Incomplete grades: A student may request an incomplete only before the final assessment deadline. The course instructor decides whether the documented circumstances justify an incomplete. The student and instructor must complete a written completion plan. Approval is not guaranteed.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 3
+
+[S3] ""DEMO UNIVERSITY — FICTIONAL TRAINING DATA. Course withdrawal: Students must submit withdrawal requests through the student portal before the published deadline. The effective withdrawal date is recorded by the registrar. Ceasing to attend class is not itself an official withdrawal.""
+Source: DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 5
+
+Please verify the quoted passages before relying on an academic policy.","DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 8 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 3 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 5 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 6 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 4",,,
+Q28,unanswerable,What is the campus shuttle GPS location right now?,no,,,,,,,1,0,I could not find enough information in the provided documents to answer that question. Please consult the official university office or handbook.,,,,
+Q29,unanswerable,Will a professor personally approve my unsubmitted petition next year?,no,,,,,,,1,0,I could not find enough information in the provided documents to answer that question. Please consult the official university office or handbook.,,,,
+Q30,unanswerable,How much does a room in the downtown hotel cost tonight?,no,,,,,,,1,0.1116,I could not find enough information in the provided documents to answer that question. Please consult the official university office or handbook.,"DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 8 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 2 | DEMO_ONLY_FICTIONAL_POLICIES.pdf, PDF p. 6",,,

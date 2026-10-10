@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.DS_Store
+.env
+.build_presentation/
+.chart-data-*/
+# The packaged project intentionally tracks its small, public PDF snapshot
+# corpus, reproducible JSON index, and evaluation output for offline review.
+# Keep personal/private PDFs out of this folder and repository.
+

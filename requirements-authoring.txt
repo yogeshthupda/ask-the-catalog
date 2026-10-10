@@ -1,0 +1,4 @@
+-r requirements-dev.txt
+reportlab>=4,<5
+lxml>=5,<7
+

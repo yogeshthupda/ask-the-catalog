@@ -1,0 +1,31 @@
+id,answerable,expected_evidence_phrase,verbatim_evidence_visible,refused,note
+Q01,yes,maximum of nine credit hours,yes,no,Not a semantic correctness metric; quote appears somewhere in 5 displayed excerpts.
+Q02,yes,grade of ‘B’ or better,yes,no,Not a semantic correctness metric; quote appears somewhere in 5 displayed excerpts.
+Q03,yes,Transfer credit from a previously completed degree,yes,no,Not a semantic correctness metric; quote appears somewhere in 5 displayed excerpts.
+Q04,yes,All transfer courses are determined by the Director,yes,no,Not a semantic correctness metric; quote appears somewhere in 5 displayed excerpts.
+Q05,yes,at least five business days,yes,no,Not a semantic correctness metric; quote appears somewhere in 5 displayed excerpts.
+Q06,yes,$300 Residency Make-Up fee,yes,no,Not a semantic correctness metric; quote appears somewhere in 5 displayed excerpts.
+Q07,yes,no more than one (1) residency session,yes,no,Not a semantic correctness metric; quote appears somewhere in 5 displayed excerpts.
+Q08,yes,approved by the Program Director in collaboration with Director,yes,no,Not a semantic correctness metric; quote appears somewhere in 5 displayed excerpts.
+Q09,yes,register for 7 credits,yes,no,Not a semantic correctness metric; quote appears somewhere in 5 displayed excerpts.
+Q10,yes,INTR599 (Masters Level),no,no,Gold phrase absent from displayed excerpts; check retrieval.
+Q11,yes,Digital Transcript fee is $ 10.00,yes,no,Not a semantic correctness metric; quote appears somewhere in 5 displayed excerpts.
+Q12,yes,Paper Transcript fee is $ 12.50,yes,no,Not a semantic correctness metric; quote appears somewhere in 5 displayed excerpts.
+Q13,yes,Parchment Transcript Services,yes,no,Not a semantic correctness metric; quote appears somewhere in 5 displayed excerpts.
+Q14,yes,Standard orders are processed within 24 hours,yes,no,Not a semantic correctness metric; quote appears somewhere in 5 displayed excerpts.
+Q15,yes,no later than the semester prior to the intended conferral date,yes,no,Not a semantic correctness metric; quote appears somewhere in 5 displayed excerpts.
+Q16,yes,Participation in the commencement ceremony is optional,yes,no,Not a semantic correctness metric; quote appears somewhere in 5 displayed excerpts.
+Q17,yes,maintain a cumulative GPA of at least 3.0,yes,no,Not a semantic correctness metric; quote appears somewhere in 5 displayed excerpts.
+Q18,yes,successfully complete at least 67%,yes,no,Not a semantic correctness metric; quote appears somewhere in 5 displayed excerpts.
+Q19,yes,maximum timeframe in which a student must complete their degree cannot exceed 150%,yes,no,Not a semantic correctness metric; quote appears somewhere in 5 displayed excerpts.
+Q20,yes,up to 14 business days,yes,no,Not a semantic correctness metric; quote appears somewhere in 5 displayed excerpts.
+Q21,yes,eligible to receive aid for one (1) semester,yes,no,Not a semantic correctness metric; quote appears somewhere in 5 displayed excerpts.
+Q22,yes,complete the Academic Appeals form and submit,yes,no,Not a semantic correctness metric; quote appears somewhere in 5 displayed excerpts.
+Q23,yes,Incident Report Form can be found on,yes,no,Not a semantic correctness metric; quote appears somewhere in 5 displayed excerpts.
+Q24,yes,current clinical documentation before any accommodation can be granted,yes,no,Not a semantic correctness metric; quote appears somewhere in 5 displayed excerpts.
+Q25,yes,extended time for tests and quizzes,yes,no,Not a semantic correctness metric; quote appears somewhere in 5 displayed excerpts.
+Q26,no,,n/a,yes,Unanswerable label; check refusal.
+Q27,no,,n/a,yes,Unanswerable label; check refusal.
+Q28,no,,n/a,yes,Unanswerable label; check refusal.
+Q29,no,,n/a,yes,Unanswerable label; check refusal.
+Q30,no,,n/a,yes,Unanswerable label; check refusal.

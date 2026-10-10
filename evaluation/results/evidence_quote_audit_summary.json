@@ -1,0 +1,9 @@
+{
+  "metric": "verbatim gold evidence phrase visible in user-facing answer",
+  "answerable_with_visible_gold_quote": 24,
+  "answerable_total": 25,
+  "missing_gold_quote_ids": [
+    "Q10"
+  ],
+  "caution": "Quote visibility does not establish complete answer correctness or citation faithfulness."
+}
